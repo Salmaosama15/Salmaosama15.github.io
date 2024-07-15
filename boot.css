@@ -1,0 +1,58 @@
+main {
+  background-image: url("C:\Users\HP\OneDrive\Desktop\Internship Bank Misr\css template task\b1.jpg");
+  background-image: url("C:\Users\HP\OneDrive\Desktop\Internship Bank Misr\css template task\b2.jpg");
+  background-image: url("C:\Users\HP\OneDrive\Desktop\Internship Bank Misr\css template task\b3.jpg");
+  height: 100vh;
+  margin: 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bandteam1,
+.bandteam2,
+.bandteam3 {
+  overflow: hidden;
+  position: absolute;
+  background-size: cover;
+  transition: 3s;
+}
+.map {
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+footer {
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  color: rgb(33, 35, 36);
+  text-decoration: none;
+  width: 100%;
+  margin: 15px 5px;
+}
+footer p {
+  text-decoration: none;
+  font-weight: 400;
+  color: black;
+  text-align: center;
+}
+.foot {
+  color: gray;
+}
+h3 {
+  font-weight: 300px;
+  letter-spacing: 3px;
+  text-align: center;
+  margin: 30px;
+}
+p {
+  text-align: center;
+  margin: 25px;
+}
+.member {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-content: center;
+  margin-right: 8px;
+  margin-left: 20px;
+}
